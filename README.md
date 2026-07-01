@@ -19,7 +19,7 @@ El problema de asignación se modela con variables binarias $x_{i,j}$ donde toma
 ## Dataset
 **Nombre del dataset:** Dataset Sintético de Tiempos de Respuesta para Despacho Crítico de Unidades Médicas Urbanas (SVA-4x4).
 **Fuente oficial o confiable:** Basado en matrices de distancias e índices de congestionamiento vial promedio extraídos de plataformas de geolocalización urbana y protocolos estándar de Despacho Asistido por Computadora (CAD) para servicios de rescate.
-**Institución responsable:** Simulación analítica con fines educativos para QMexico Summer School 2026 (Módulo de Logística de Salud Pública).
+**Institución responsable:** Simulación analítica con fines educativos para QMexico Summer School 2026.
 **URL de la fuente:** https://github.com/QMexico-Summer-School-2026/ambulancias-matching-dataset
 **URL raw del CSV usado en data/:** https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/data/dataset_real_4x4.csv
 **Licencia o condiciones de uso:** Creative Commons Attribution 4.0 International (CC BY 4.0).
