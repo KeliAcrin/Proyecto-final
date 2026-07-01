@@ -22,7 +22,6 @@ El problema de asignación se modela con variables binarias $x_{i,j}$ donde toma
 **Institución responsable:** Simulación analítica con fines educativos para QMexico Summer School 2026.
 **URL de la fuente:** https://github.com/QMexico-Summer-School-2026/ambulancias-matching-dataset
 **URL raw del CSV usado en data/:** https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/data/dataset_real_4x4.csv
-**Licencia o condiciones de uso:** Creative Commons Attribution 4.0 International (CC BY 4.0).
 **Fecha de consulta:** 30 de junio de 2026.
 **Dominio del problema:** Optimización de Operaciones de Salud Pública, Logística de Transporte de Emergencia y Cómputo Cuántico Aplicado.
 
