@@ -21,7 +21,7 @@ El problema de asignación se modela con variables binarias $x_{i,j}$ donde toma
 **Fuente oficial o confiable:** Basado en matrices de distancias e índices de congestionamiento vial promedio extraídos de plataformas de geolocalización urbana y protocolos estándar de Despacho Asistido por Computadora (CAD) para servicios de rescate.
 **Institución responsable:** Simulación analítica con fines educativos para QMexico Summer School 2026.
 **URL de la fuente:** https://github.com/QMexico-Summer-School-2026/ambulancias-matching-dataset
-**URL raw del CSV usado en data/:**https://github.com/KeliAcrin/Proyecto-final/blob/data/dataset_real_4x4.csv
+**URL raw del CSV usado en data/:** https://github.com/KeliAcrin/Proyecto-final/blob/data/dataset_real_4x4.csv
 **Fecha de consulta:** 30 de junio de 2026.
 **Dominio del problema:** Optimización de Operaciones de Salud Pública, Logística de Transporte de Emergencia y Cómputo Cuántico Aplicado.
 
