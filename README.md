@@ -39,8 +39,14 @@ El problema de asignación se modela con variables binarias $x_{i,j}$ donde toma
 Donde $T_{ij}$ representa el tiempo estimado de traslado (ETA) en minutos de la ambulancia $i$ hacia el siniestro $j$.
 **Normalización aplicada:** Desplazamiento lineal inverso con respecto a un umbral máximo operativo de 20 minutos. Esto transforma el problema de minimización de tiempos en una maximización de puntajes positivos (scores), donde una respuesta más rápida produce un score significativamente más alto, adaptándose perfectamente a la estructura del código base.
 **Matriz S 4x4:**
-$$\begin{pmatrix} 14 & 6 & 11 & 2 \\ 8 & 15 & 9 & 12 \\ 5 & 9 & 13 & 7 \\ 11 & 12 & 6 & 16 \end{pmatrix}$$
-
+$$
+\begin{pmatrix}
+14 & 6 & 11 & 2 \\
+8 & 15 & 9 & 12 \\
+5 & 9 & 13 & 7 \\
+11 & 12 & 6 & 16
+\end{pmatrix}
+$$
 ## Restricciones
 **Restricción por filas:** Cada unidad de ambulancia debe ser enviada a exactamente una emergencia médica para no dividir recursos críticos:
 $$\sum_{j=1}^{4} x_{ij} = 1 \quad \forall i \in \{1, 2, 3, 4\}$$
