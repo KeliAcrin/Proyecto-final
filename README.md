@@ -76,7 +76,4 @@ $$\sum_{i=1}^{4} x_{ij} = 1 \quad \forall j \in \{1, 2, 3, 4\}$$
 **Instrucciones para ejecutar todas las celdas sin errores:**
 1. Asegúrate de instalar las librerías necesarias ejecutando la celda inicial de instalación:
    `!pip install qiskit qiskit-optimization qiskit-aer docplex`
-2. Modifica la variable global dentro del código para activar tu dataset propio:
-   `USANDO_DATASET_MOLECULAR_DE_EJEMPLO = False`
-3. Asegúrate de cambiar la variable `url_csv` apuntando a la dirección URL Raw de tu propio repositorio en GitHub para permitir la lectura automatizada de los datos.
-4. Ejecuta todo el entorno secuencialmente desde el menú superior seleccionando **Entorno de ejecución** -> **Ejecutar todas**. Todas las celdas completarán su ejecución e imprimirán las gráficas y tablas comparativas de manera exitosa.
+2. Ejecuta todo el entorno secuencialmente desde el menú superior seleccionando **Entorno de ejecución** -> **Ejecutar todas**. Todas las celdas completarán su ejecución e imprimirán las gráficas y tablas comparativas de manera exitosa.
